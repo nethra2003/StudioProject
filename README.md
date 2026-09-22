@@ -8,16 +8,16 @@ The application is designed with reusable templates, organized backend architect
 ---
 
 ## Features
-Responsive interior design studio website interface
-Interior design services showcase
-Studio history and information section
-Projects and portfolio showcase
-Home, About, Services, Projects, and Contact pages
-Dynamic page rendering using Django
-Reusable templates and components
-Static file management for CSS, JavaScript, and images
-User-friendly navigation system
-Backend routing and request handling using Django views
+--Responsive interior design studio website interface
+--Interior design services showcase
+--Studio history and information section
+--Projects and portfolio showcase
+--Home, About, Services, Projects, and Contact pages
+--Dynamic page rendering using Django
+--Reusable templates and components
+--Static file management for CSS, JavaScript, and images
+--User-friendly navigation system
+--Backend routing and request handling using Django views
 
 ---
 
@@ -103,15 +103,15 @@ The Studio Interior Design Website provides a responsive interior design platfor
 ---
 
 ## Future Enhancements
-Admin dashboard for managing projects and services
-Dynamic project management functionality
-Image gallery and project filtering
-Customer inquiry functionality
-Appointment or consultation booking
-User authentication system
-Online quotation request functionality
-Customer feedback and review system
-Email notification system
+--Admin dashboard for managing projects and services
+--Dynamic project management functionality
+-- gallery and project filtering
+--Customer inquiry functionality
+--Appointment or consultation booking
+--User authentication system
+--Online quotation request functionality
+--Customer feedback and review system
+--Email notification system
 
 ---
 
